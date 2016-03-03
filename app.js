@@ -27,8 +27,22 @@ var computeDurationBlock = function(){
     writeData('duration-output.txt',durationOutputResult);
 };
 
+var computeTimeBlock = function(){
+    var timeF1 = '0.000';
+    var timeF2 = '';
+    var timeResult = '0.000';
+    dataSource.words.forEach(function(data){
+        timeF2 = (+data.time).round(3);
+        timeResult = +(+timeF1).round(3) + (+timeF2).round(3);
+        timeOutputResult+=''+(+timeF1).round(3)+'  '+(+timeF2).round(3)+'  '+(+timeResult).round(3)+'\n';
+        timeF1 = timeResult.round(3);
+    });
+    writeData('time-output.txt',timeOutputResult);
+};
+
 var init = function(){
     computeDurationBlock();
+    computeTimeBlock();
 };
 
 init();
