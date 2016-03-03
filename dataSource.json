@@ -1,0 +1,507 @@
+{
+  "job": {
+    "lang": "en-US",
+    "user_id": 2296,
+    "name": "tnmsp3.mp3",
+    "duration": 43,
+    "created_at": "Tue Mar  1 08:49:29 2016",
+    "id": 300113
+  },
+  "speakers": [
+    {
+      "duration": "41.360",
+      "confidence": null,
+      "name": "M1",
+      "time": "0.517"
+    }
+  ],
+  "words": [
+    {
+      "duration": "0.780",
+      "confidence": "0.995",
+      "name": "Apartheid",
+      "time": "0.517"
+    },
+    {
+      "duration": "0.220",
+      "confidence": "0.995",
+      "name": "in",
+      "time": "2.277"
+    },
+    {
+      "duration": "1.270",
+      "confidence": "0.995",
+      "name": "1948",
+      "time": "2.498"
+    },
+    {
+      "duration": "0.470",
+      "confidence": "0.995",
+      "name": "South",
+      "time": "4.157"
+    },
+    {
+      "duration": "0.560",
+      "confidence": "0.968",
+      "name": "Africa's",
+      "time": "4.628"
+    },
+    {
+      "duration": "0.400",
+      "confidence": "0.945",
+      "name": "white",
+      "time": "5.188"
+    },
+    {
+      "duration": "0.610",
+      "confidence": "0.994",
+      "name": "rulers",
+      "time": "5.588"
+    },
+    {
+      "duration": "0.260",
+      "confidence": "0.995",
+      "name": "put",
+      "time": "6.678"
+    },
+    {
+      "duration": "0.150",
+      "confidence": "0.995",
+      "name": "the",
+      "time": "6.938"
+    },
+    {
+      "duration": "0.620",
+      "confidence": "0.995",
+      "name": "apartheid",
+      "time": "7.088"
+    },
+    {
+      "duration": "0.540",
+      "confidence": "0.995",
+      "name": "system",
+      "time": "7.707"
+    },
+    {
+      "duration": "0.250",
+      "confidence": "0.995",
+      "name": "in",
+      "time": "8.398"
+    },
+    {
+      "duration": "0.520",
+      "confidence": "0.995",
+      "name": "place",
+      "time": "8.648"
+    },
+    {
+      "duration": "1.000",
+      "confidence": null,
+      "name": ".",
+      "time": "9.168"
+    },
+    {
+      "duration": "0.230",
+      "confidence": "0.995",
+      "name": "It",
+      "time": "10.168"
+    },
+    {
+      "duration": "0.170",
+      "confidence": "0.995",
+      "name": "was",
+      "time": "10.398"
+    },
+    {
+      "duration": "0.070",
+      "confidence": "0.995",
+      "name": "a",
+      "time": "10.568"
+    },
+    {
+      "duration": "0.460",
+      "confidence": "0.995",
+      "name": "law",
+      "time": "10.637"
+    },
+    {
+      "duration": "0.220",
+      "confidence": "0.995",
+      "name": "that",
+      "time": "11.277"
+    },
+    {
+      "duration": "0.770",
+      "confidence": "0.995",
+      "name": "separated",
+      "time": "11.498"
+    },
+    {
+      "duration": "0.460",
+      "confidence": "0.995",
+      "name": "black",
+      "time": "12.338"
+    },
+    {
+      "duration": "0.230",
+      "confidence": "0.995",
+      "name": "and",
+      "time": "12.797"
+    },
+    {
+      "duration": "0.380",
+      "confidence": "0.799",
+      "name": "colored",
+      "time": "13.027"
+    },
+    {
+      "duration": "0.480",
+      "confidence": "0.995",
+      "name": "people",
+      "time": "13.408"
+    },
+    {
+      "duration": "0.410",
+      "confidence": "0.995",
+      "name": "from",
+      "time": "14.168"
+    },
+    {
+      "duration": "0.280",
+      "confidence": "0.995",
+      "name": "white",
+      "time": "14.578"
+    },
+    {
+      "duration": "0.470",
+      "confidence": "0.995",
+      "name": "people",
+      "time": "14.887"
+    },
+    {
+      "duration": "0.400",
+      "confidence": "0.995",
+      "name": "black",
+      "time": "16.337"
+    },
+    {
+      "duration": "0.190",
+      "confidence": "0.995",
+      "name": "and",
+      "time": "16.738"
+    },
+    {
+      "duration": "0.420",
+      "confidence": "0.880",
+      "name": "colored",
+      "time": "16.927"
+    },
+    {
+      "duration": "0.490",
+      "confidence": "0.995",
+      "name": "people",
+      "time": "17.348"
+    },
+    {
+      "duration": "0.510",
+      "confidence": "0.995",
+      "name": "lived",
+      "time": "18.137"
+    },
+    {
+      "duration": "0.140",
+      "confidence": "0.995",
+      "name": "and",
+      "time": "18.648"
+    },
+    {
+      "duration": "0.390",
+      "confidence": "0.995",
+      "name": "worked",
+      "time": "18.788"
+    },
+    {
+      "duration": "0.810",
+      "confidence": "0.995",
+      "name": "separately",
+      "time": "19.207"
+    },
+    {
+      "duration": "0.310",
+      "confidence": "0.995",
+      "name": "from",
+      "time": "20.117"
+    },
+    {
+      "duration": "0.280",
+      "confidence": "0.995",
+      "name": "white",
+      "time": "20.427"
+    },
+    {
+      "duration": "0.480",
+      "confidence": "0.995",
+      "name": "people",
+      "time": "20.707"
+    },
+    {
+      "duration": "0.990",
+      "confidence": null,
+      "name": ".",
+      "time": "21.188"
+    },
+    {
+      "duration": "0.200",
+      "confidence": "0.995",
+      "name": "They",
+      "time": "22.177"
+    },
+    {
+      "duration": "0.320",
+      "confidence": "0.995",
+      "name": "had",
+      "time": "22.378"
+    },
+    {
+      "duration": "0.170",
+      "confidence": "0.995",
+      "name": "to",
+      "time": "22.698"
+    },
+    {
+      "duration": "0.460",
+      "confidence": "0.995",
+      "name": "use",
+      "time": "22.867"
+    },
+    {
+      "duration": "0.590",
+      "confidence": "0.995",
+      "name": "separate",
+      "time": "23.358"
+    },
+    {
+      "duration": "0.860",
+      "confidence": "0.995",
+      "name": "facilities",
+      "time": "23.948"
+    },
+    {
+      "duration": "0.990",
+      "confidence": null,
+      "name": ".",
+      "time": "24.808"
+    },
+    {
+      "duration": "0.170",
+      "confidence": "0.995",
+      "name": "They",
+      "time": "25.797"
+    },
+    {
+      "duration": "0.210",
+      "confidence": "0.995",
+      "name": "could",
+      "time": "25.968"
+    },
+    {
+      "duration": "0.310",
+      "confidence": "0.995",
+      "name": "not",
+      "time": "26.177"
+    },
+    {
+      "duration": "0.210",
+      "confidence": "0.995",
+      "name": "be",
+      "time": "26.488"
+    },
+    {
+      "duration": "0.440",
+      "confidence": "0.995",
+      "name": "part",
+      "time": "26.698"
+    },
+    {
+      "duration": "0.180",
+      "confidence": "0.995",
+      "name": "of",
+      "time": "27.168"
+    },
+    {
+      "duration": "0.090",
+      "confidence": "0.995",
+      "name": "the",
+      "time": "27.348"
+    },
+    {
+      "duration": "0.640",
+      "confidence": "0.995",
+      "name": "government",
+      "time": "27.438"
+    },
+    {
+      "duration": "0.970",
+      "confidence": null,
+      "name": ".",
+      "time": "28.078"
+    },
+    {
+      "duration": "0.480",
+      "confidence": "0.995",
+      "name": "Police",
+      "time": "29.047"
+    },
+    {
+      "duration": "0.210",
+      "confidence": "0.995",
+      "name": "could",
+      "time": "29.527"
+    },
+    {
+      "duration": "0.470",
+      "confidence": "0.995",
+      "name": "arrest",
+      "time": "29.738"
+    },
+    {
+      "duration": "0.390",
+      "confidence": "0.995",
+      "name": "black",
+      "time": "30.207"
+    },
+    {
+      "duration": "0.470",
+      "confidence": "0.995",
+      "name": "people",
+      "time": "30.598"
+    },
+    {
+      "duration": "0.550",
+      "confidence": "0.995",
+      "name": "simply",
+      "time": "31.367"
+    },
+    {
+      "duration": "0.190",
+      "confidence": "0.995",
+      "name": "for",
+      "time": "31.918"
+    },
+    {
+      "duration": "0.390",
+      "confidence": "0.995",
+      "name": "not",
+      "time": "32.108"
+    },
+    {
+      "duration": "0.550",
+      "confidence": "0.995",
+      "name": "carrying",
+      "time": "32.498"
+    },
+    {
+      "duration": "0.630",
+      "confidence": "0.995",
+      "name": "passes",
+      "time": "33.047"
+    },
+    {
+      "duration": "0.330",
+      "confidence": "0.995",
+      "name": "for",
+      "time": "33.807"
+    },
+    {
+      "duration": "0.470",
+      "confidence": "0.995",
+      "name": "being",
+      "time": "34.138"
+    },
+    {
+      "duration": "0.190",
+      "confidence": "0.995",
+      "name": "in",
+      "time": "34.638"
+    },
+    {
+      "duration": "0.080",
+      "confidence": "0.749",
+      "name": "the",
+      "time": "34.828"
+    },
+    {
+      "duration": "0.560",
+      "confidence": "0.749",
+      "name": "city",
+      "time": "34.907"
+    },
+    {
+      "duration": "0.980",
+      "confidence": null,
+      "name": ".",
+      "time": "35.468"
+    },
+    {
+      "duration": "0.190",
+      "confidence": "0.995",
+      "name": "It",
+      "time": "36.447"
+    },
+    {
+      "duration": "0.490",
+      "confidence": "0.995",
+      "name": "always",
+      "time": "36.638"
+    },
+    {
+      "duration": "0.480",
+      "confidence": "0.995",
+      "name": "seems",
+      "time": "37.127"
+    },
+    {
+      "duration": "0.900",
+      "confidence": "0.995",
+      "name": "impossible",
+      "time": "37.608"
+    },
+    {
+      "duration": "0.520",
+      "confidence": "0.995",
+      "name": "until",
+      "time": "38.958"
+    },
+    {
+      "duration": "0.280",
+      "confidence": "0.995",
+      "name": "it's",
+      "time": "39.477"
+    },
+    {
+      "duration": "0.460",
+      "confidence": "0.995",
+      "name": "done",
+      "time": "39.758"
+    },
+    {
+      "duration": "0.540",
+      "confidence": "0.995",
+      "name": "Nelson",
+      "time": "40.627"
+    },
+    {
+      "duration": "0.710",
+      "confidence": "0.235",
+      "name": "Mandella",
+      "time": "41.167"
+    },
+    {
+      "duration": "0.000",
+      "confidence": null,
+      "name": ".",
+      "time": "41.877"
+    }
+  ],
+  "format": "1.0"
+}
